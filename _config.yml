@@ -1,18 +1,18 @@
 #page title
-page_title                                : Idle Forest                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Zen Symmetry - Relaxing Puzzle                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=idleforest.game                                         # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.eighthbitlab.symmetry                                         # Enter Google Play Store URL.
 presskit_download_link                    :                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Idle Forest                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Zen Symmetry - Relaxing Puzzle                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Your pocket forest. Relaxing Idle game.
+app_description                           : Sharpens focus, trains brain! Relaxing, zen game. Place tiles symmetrically
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,26 +34,23 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Cute trees
-    description                           : More than 20 types of trees.
+  - title                                 : Relaxing puzzles for your mind
+    description                           : Zen Symmetry is a game designed to help you take a break from the hustle and bustle, calm down and develop your mind.
     fontawesome_icon_name                 : star
     
-  - title                                 : Offline growth
-    description                           : Your forest will grow while you offline!
+  - title                                 : Challenge along with a calming and relaxing atmosphere
+    description                           : The main idea of ​​this brain teaser is very simple, you need to solve logic puzzles to create symmetrical images around the lines and centers on the field.
     fontawesome_icon_name                 : star
 
 
-  - title                                 : Beautiful low poly graphics
-    description                           : Nice picture and animations.
+  - title                                 : A lot of puzzles with multiple features
+    description                           : The game has 4 chapters, each with multiple complexity levels. The chapters aren't only set apart by their complexity levels but they also have their own distinctive features.
     fontawesome_icon_name                 : star
     
-  - title                                 : Relax music
-    description                           : Relax and rest while playing this game.
+  - title                                 : Puzzle retreat, indeed!
+    description                           : Try Zen mode, this is the most comfortable mode for playing, when you just want to relax and rest, the levels are generated endlessly, gradually, and unobtrusively increasing their difficulty.
     fontawesome_icon_name                 : star
     
-  - title                                 : Day and night modes
-    description                           : 
-    fontawesome_icon_name                 : star
 
 
 # Theme Settings
